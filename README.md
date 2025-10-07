@@ -1,16 +1,23 @@
-# myapp
+# ImageGen — тестовое задание
 
-A new Flutter project.
+Быстрый старт
 
-## Getting Started
+- Установите зависимости:
 
-This project is a starting point for a Flutter application.
+```zsh
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+- Запустите приложение (устройство или симулятор):
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```zsh
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Запустите тесты:
+
+```zsh
+flutter test
+```
+
+
